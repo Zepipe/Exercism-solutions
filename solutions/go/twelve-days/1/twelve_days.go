@@ -17,7 +17,7 @@ var songLyrics [13]string = [13]string{
     }
 
 func Verse(i int) string {
-	if i < 0 {
+	if i < 0 || i >= len(songLyrics){
         return ""
     }	
 
