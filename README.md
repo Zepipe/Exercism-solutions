@@ -1,1 +1,3 @@
-Practicing Go language using different packages such as **"strings"**, **"unicode"**, **"unicode/utf8"**, **"strconv"**, **"math"**, **"reflect"**
+• Practicing Go language using different packages such as **"strings"**, **"unicode"**, **"unicode/utf8"**, **"strconv"**, **"math"**, **"reflect"**
+
+• Practicing with basic algorithms
